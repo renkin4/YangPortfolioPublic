@@ -1,0 +1,1 @@
+import{_ as t,c as e,o}from"./chunks/framework.Bf2oz8X3.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"portfolios/NUS.md","filePath":"portfolios/NUS.md"}'),r={name:"portfolios/NUS.md"};function a(s,c,n,p,i,f){return o(),e("div")}const l=t(r,[["render",a]]);export{d as __pageData,l as default};
